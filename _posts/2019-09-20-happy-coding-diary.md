@@ -6,7 +6,7 @@ categories: Default
 tags: test Test
 comments: 1
 ---
-##오늘은 코딩을 했다. 다음주도 또 코딩을 할거다. 코딩은 참 재밌다. 
+## 오늘은 코딩을 했다. 다음주도 또 코딩을 할거다. 코딩은 참 재밌다. 
 <h6> ~~코딩노잼~~ </h6>
 {% highlight ruby %}
 def print_hi(name)
