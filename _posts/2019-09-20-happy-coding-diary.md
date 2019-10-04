@@ -6,7 +6,7 @@ categories: Default
 tags: test Test
 comments: 1
 ---
-## <strong>2019-10-04 이벤트처리(key press event)<strong/>
+## <strong>2019-10-04 이벤트처리(key press event)</strong>
 #### 1.코드 간단설명
 ##### + 키를 재정의 해주어서 키를 눌렀을떄 창크게 작게 닫기를 실행
 #### 2.핵심 줄
@@ -14,7 +14,7 @@ comments: 1
 #### 코드 설명
 ######
 #### 실행화면
-<img> src="https://gyubo.github.com/assets/res/post image/image.PNG" width="150" height="150"></img>
+![image] (https://gyubo.github.io/assets/res/post image/image.PNG)
 {% highlight ruby %}
 import sys
 from PyQt5.QtWidgets import *
