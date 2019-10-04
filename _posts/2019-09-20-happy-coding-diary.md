@@ -41,9 +41,7 @@ if __name__ == "__main__":
     sys.exit(app.exec_())
 
 {% endhighlight %}
+##### 일기&요약
+오늘은 저번시간에 이어 PYQT를했다. 계속 창을 디자인 하고있는데 이번에는 키(키보드)를 누름에따라 작동하게하는 함수였다. 원하는 키를 이용해서 간단하고 눈에보이는 코드를 만들수 있으면 좋을거같다
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+ 
