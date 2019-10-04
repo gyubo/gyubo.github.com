@@ -14,7 +14,7 @@ comments: 1
 #### 코드 설명
 ######
 #### 실행화면
-<img> src="https://gyubo.github.io/assets/res/post image/image.PNG" width="150" height="150"></img>
+<img> src="https://gyubo.github.com/assets/res/post image/image.PNG" width="150" height="150"></img>
 {% highlight ruby %}
 import sys
 from PyQt5.QtWidgets import *
