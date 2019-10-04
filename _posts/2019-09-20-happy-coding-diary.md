@@ -11,7 +11,10 @@ comments: 1
 ##### + 키를 재정의 해주어서 키를 눌렀을떄 창크게 작게 닫기를 실행
 #### 2.핵심 줄
 ##### + 14~20줄에서 함수의 역할
-
+#### 코드 설명
+######
+#### 실행화면
+file:///C:/Users/gyubo/git/gyubo.github.com/assets/res/post%20image/image.PNG
 {% highlight ruby %}
 import sys
 from PyQt5.QtWidgets import *
