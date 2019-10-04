@@ -15,7 +15,7 @@ comments: 1
 ######
 #### 실행화면
 
-![image] (https://gyubo.github.io/assets/res/post image/image.PNG)
+![image](https://gyubo.github.io/assets/res/post image/image.PNG)
 
 {% highlight ruby %}
 import sys
