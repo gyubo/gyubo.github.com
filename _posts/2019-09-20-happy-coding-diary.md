@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "happy coding diary"
+title:  "Coding"
 date:   2019-10-04 00:00:00 +0800
 categories: Default
 tags: test Test
