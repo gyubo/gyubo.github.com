@@ -12,7 +12,7 @@ comments: 1
 #### 2.핵심 줄
 ##### + 14~20줄
 #### 코드 설명
-######
+###### 10~12줄-창이 생길위치,크기  | 14~20-키를 눌렀을때 일어날 일 정의
 #### 실행화면
 
 ![image](https://gyubo.github.io/assets/res/post image/image.PNG)
